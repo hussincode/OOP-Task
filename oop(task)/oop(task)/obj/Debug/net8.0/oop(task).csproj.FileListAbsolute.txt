@@ -1,0 +1,14 @@
+C:\hussin\c++\oop(task)\oop(task)\bin\Debug\net8.0\oop(task).exe
+C:\hussin\c++\oop(task)\oop(task)\bin\Debug\net8.0\oop(task).deps.json
+C:\hussin\c++\oop(task)\oop(task)\bin\Debug\net8.0\oop(task).runtimeconfig.json
+C:\hussin\c++\oop(task)\oop(task)\bin\Debug\net8.0\oop(task).dll
+C:\hussin\c++\oop(task)\oop(task)\bin\Debug\net8.0\oop(task).pdb
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\oop(task).GeneratedMSBuildEditorConfig.editorconfig
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\oop(task).AssemblyInfoInputs.cache
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\oop(task).AssemblyInfo.cs
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\oop(task).csproj.CoreCompileInputs.cache
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\oop(task).dll
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\refint\oop(task).dll
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\oop(task).pdb
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\oop(task).genruntimeconfig.cache
+C:\hussin\c++\oop(task)\oop(task)\obj\Debug\net8.0\ref\oop(task).dll
